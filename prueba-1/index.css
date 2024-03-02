@@ -1,0 +1,26 @@
+.oscuro{
+    color:white;
+    background-color: black;
+}
+.claro {
+    color:black;
+    background-color: white;
+}
+.estilo1 {
+    font-size: 48px ;
+    color: red;
+    background-color: black;    
+}
+.rojo-oscuro {
+     color: rgb(134, 0, 0)
+}
+.azul-oscuro {
+    color: rgb(0, 0, 134)
+}
+.verde-oscuro {
+    color: rgb(0, 134, 0);
+    border: 2px dashed red;
+    block-size: 20%;
+    display: inline-block;
+    width: 5%;
+}
